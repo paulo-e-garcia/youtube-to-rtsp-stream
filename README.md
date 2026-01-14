@@ -25,7 +25,7 @@ rtsp_output = "rtsp://localhost:8554/mystream" # Stream address
 After editing the variables, run the Python file directly.
 
 ```bash
-python main.py
+python rtsp-stream.py
 ```
 
 
