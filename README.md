@@ -18,13 +18,14 @@ Edit the variables inside the `main()` function within the script:
 ```python
 youtube_url = "[https://www.youtube.com/watch?v=] # Target YouTube Video
 rtsp_output = "rtsp://localhost:8554/mystream" # Stream address
+```
 
-## Usage 
+## Usage
 
 After editing the variables, run the Python file directly.
 
 ```bash
 python main.py
-
+```
 
 
